@@ -1,12 +1,10 @@
 {
-    "employees":[
+    "searches":[
         {
-            "id":12312313,
-            "name": "User testing 1"
+            "text":"Youtube"
         },
         {
-            "id":12315553,
-            "name": "User testing 2"
+            "text":"Instagram"
         }
     ]
 }
